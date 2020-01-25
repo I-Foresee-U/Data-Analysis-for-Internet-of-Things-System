@@ -6,5 +6,5 @@ The probelm description is shown in "Project-Description.pdf"
 
 The source code and implementation details are in "**Big Three_Final.ipynb**".
 
-The generate report is "Big Three_Final.pdf"
+The generated report is "Big Three_Final.pdf"
 
