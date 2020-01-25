@@ -4,5 +4,5 @@ This project uses a dataset collected by an actual IoT system to build a forecas
 
 The probelm description is shown in "Project-Description.pdf"
 
-The implementation details are shown in the report "Big Three_Final.pdf"
+The implementation details and results are shown in the report "**Big Three_Final.pdf**"
 
